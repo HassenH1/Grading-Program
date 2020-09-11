@@ -1,7 +1,5 @@
 #include <iostream>
 
-//void grade(int);
-
 void grade(int i){
   if(i == 100){
     std::cout << "You got a perfect score" << std::endl;
